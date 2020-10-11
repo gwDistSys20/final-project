@@ -8,5 +8,5 @@ Name 2
 ...
 ```
 
-## (Optional) Brief Tentative Project description
-...
+## (Optional) Proposed Project Description
+(at most a few sentences)
